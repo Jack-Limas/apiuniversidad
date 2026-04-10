@@ -65,3 +65,27 @@ El proyecto está organizado en capas:
 ## ✅ Ejemplos de respuestas
 
 **Login correcto:**
+
+Acceso correcto. Bienvenido/a Ana Martinez
+
+**Login incorrecto:**
+Acceso incorrecto, error al entrar.
+
+**Correo enviado:**
+Correo enviado con exito a Ana Martinez (ana@uni.edu) - Mensaje: Tienes examen
+
+**Evaluación aprobado:**
+Estudiante Ana evaluado por el profesor Dr. Juan Perez - Nota: 4.5 - APROBADO
+
+**Evaluación reprobado:**
+Estudiante Pedro evaluado por el profesor Dr. Juan Perez - Nota: 2.0 - REPROBADO
+
+**Solicitud aprobada:**
+Solicitud SOL-001 aprobada por Carlos Lopez del area de Registro
+
+
+El servidor corre en `http://localhost:8080`
+
+Jack Anderson Limas Solarte
+Ingenieria de software
+Universidad Cooperativa de Colombia
